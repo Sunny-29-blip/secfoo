@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/secfoo-com/secfoo/main/docs/assets/terminal.gif" alt="secfoo run on OWASP NodeGoat: SAST and secret scanning finish with 6 and 3 High findings, one finding is shown (server-side JS injection via eval on a POST body), then the findings are exported as SARIF" width="900">
 </p>
 
-# secfoo — AI security review CLI
+# secfoo — AI security review CLI..
 
 <p align="center">
   <strong>Turn the coding agent you already have into a disciplined security reviewer.</strong><br>
